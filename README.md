@@ -1,2 +1,2 @@
-# AnacondaProjects
+# JupyterNotebookProjects
 Some projects for anaconda learning
